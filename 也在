@@ -1,0 +1,412 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>首页_腾龙集团有限公司</title>
+<meta name="description" content="腾龙公司简介> 企业文化 腾龙集团,于2010年成立于缅甸掸邦果敢老街市中心,属于一家服务服务型的集团,主要为大家提供:旅游服务、酒店运营、文化传媒……还有一些休闲游戏的娱乐设施。曾经作为老街市四大家族，百家产业，公司非常有实力。" />
+<meta name="keywords" content="腾龙公司,腾龙公司网站" />
+<meta name="viewport" content="width=1500">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="/template/pc/skin/css/aos.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="/template/pc/skin/css/style.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="/template/pc/skin/css/common.css" rel="stylesheet" media="screen" type="text/css" />
+<script language="javascript" type="text/javascript" src="/template/pc/skin/js/jquery-3.7.0.min.js"></script>
+<script language="javascript" type="text/javascript" src="/template/pc/skin/js/jquery.superslide.2.1.3.js"></script>
+<script language="javascript" type="text/javascript" src="/template/pc/skin/js/common.js"></script>
+</head>
+<body>
+<div class="top_main">
+  <div class="top w1200 clearfix"> <span class="top_l fl">您好，欢迎进入腾龙公司有限公司官网！</span>
+    <div class="top_r fr">
+      <div class="list">  <a href="/index.php?m=home&c=Lists&a=index&tid=13" title="在线留言">在线留言</a> <s class="line"></s>  <a href="/index.php?m=home&c=Lists&a=index&tid=14" title="联系我们">联系我们</a></div>
+    </div>
+  </div>
+</div>
+<div class="header_main por" id="header_main">
+  <div class="header w1200 clearfix"> <a class="webLogo" href="http://njadbzs.com" title="首页_腾龙集团有限公司" aos="fade-right" aos-easing="ease" aos-duration="700"><img src="/uploads/allimg/20240519/1-24051920100UZ.png" alt="首页_腾龙集团有限公司"></a>
+    <div class="tel_main" aos="fade-left" aos-easing="ease" aos-duration="700">
+      <p class="zx">全国咨询热线</p>
+      <h3 class="webTel">19188348899</h3>
+    </div>
+  </div>
+  <div class="nav_main w1200">
+    <div class="nav clearfix" id="nav">
+      <ul class="navlist clearfix">
+        <li class="item"><a href="http://njadbzs.com"  class='hvr-underline-from-center1 hover'>网站首页</a></li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=1" title="关于我们">关于我们</a>
+          <div class="suNav">  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=2" title="企业文化">企业文化</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=3" title="企业风采">企业风采</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=4" title="公司资质">公司资质</a>  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=5" title="产品中心">产品中心</a>
+          <div class="suNav">  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=6" title="传统烘干系列">传统烘干系列</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=7" title="模内干燥系列">模内干燥系列</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=8" title="纸浆模塑系列">纸浆模塑系列</a>  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=9" title="新闻中心">新闻中心</a>
+          <div class="suNav">  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=10" title="公司资讯">公司资讯</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=11" title="行业动态">行业动态</a>  <a class="subA" href="/index.php?m=home&c=Lists&a=index&tid=28" title="常见问题">常见问题</a>  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=12" title="合作案例">合作案例</a>
+          <div class="suNav">  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=15" title="售后承诺">售后承诺</a>
+          <div class="suNav">  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=13" title="在线留言">在线留言</a>
+          <div class="suNav">  </div>
+        </li>
+                <li class="item"><a class="hvr-underline-from-center1 " href="/index.php?m=home&c=Lists&a=index&tid=14" title="联系我们">联系我们</a>
+          <div class="suNav">  </div>
+        </li>
+              </ul>
+    </div>
+  </div>
+</div>
+
+<div id="banner_main" aos="flip-left">
+  <div id="banner" class="banner1">
+    <div class="bd">
+      <ul class="list clearfix">
+                <li class="item"><a href=""><img src="/uploads/allimg/20240519/1-2405192021504N.jpg" alt=""/></a></li>
+                <li class="item"><a href=""><img src="/uploads/allimg/20240519/1-240519202255264.jpg" alt=""/></a></li>
+                <li class="item"><a href=""><img src="/uploads/allimg/20240519/1-2405192022211N.jpg" alt=""/></a></li>
+              </ul>
+    </div>
+    <div class="tip"></div>
+    <a href="javascript:;" id="btn_prev" class="icon"></a> <a href="javascript:;" id="btn_next" class="icon"></a> </div>
+</div>
+<div class="announ_main">
+  <div class="announ w1200 clearfix">
+    <div class="announ_left" aos="fade-right" aos-easing="ease" aos-duration="700"> <span class="fl">热门搜索：</span>
+      <div class="re_key fl"> <a href='/index.php?m=home&c=Lists&a=index&tid=6' class=''>传统烘干系列</a>  <a href='/index.php?m=home&c=Lists&a=index&tid=7' class=''>模内干燥系列</a>  <a href='/index.php?m=home&c=Lists&a=index&tid=8' class=''>纸浆模塑系列</a>  </div>
+    </div>
+    <div class="announ_right fr" aos="fade-left" aos-easing="ease" aos-duration="700">
+      <div class="search">         <form method='get' action='/index.php?m=home&c=Search&a=lists'>
+          <input class="txt fl" type="text" name='keywords' value="请输入关键字" onfocus="if(this.value==defaultValue)this.value=''" onblur="if(this.value=='')this.value=defaultValue">
+          <input type="submit" value="" class="btn ease">
+          <input type="hidden" name="m" value="home" /><input type="hidden" name="c" value="Search" /><input type="hidden" name="a" value="lists" /><input type="hidden" name="method" value="1" />        </form>
+         </div>
+    </div>
+  </div>
+</div>
+<div class="index trans">   <div class="floor_1_main">
+    <div class="floor_1 w1200 clearfix">
+      <div class="indexTit" aos="fade-up" aos-easing="ease" aos-duration="700">
+        <h3 class="tit"><em>产品中心</em></h3>
+        <p class="subtit"></p>
+      </div>
+      <div class="menu1 clearfix" aos="fade-up" aos-easing="ease" aos-duration="700" aos-delay="100">  <a class="item" href="/index.php?m=home&c=Lists&a=index&tid=6" title="传统烘干系列">传统烘干系列</a> <a class="item" href="/index.php?m=home&c=Lists&a=index&tid=7" title="模内干燥系列">模内干燥系列</a> <a class="item" href="/index.php?m=home&c=Lists&a=index&tid=8" title="纸浆模塑系列">纸浆模塑系列</a> </div>
+      <div class="product">
+        <div class="left" aos="fade-right" aos-easing="ease" aos-duration="700">
+          <dl>
+                        <dd class="d1">
+              <div class="box1"><a href="/index.php?m=home&c=View&a=index&aid=29" title="产品中心标题九">
+                <h3>产品中心标题九</h3>
+                <p>产品以再生废纸、芦苇浆、甘蔗浆、植物桔杆、果壳等为原料,可完全回收再生利用。~再生废纸、植物桔杆等为原料 产品......</p>
+                <i class="icon"></i><span class="icon"></span></a></div>
+              <div class="box2"><a href="/index.php?m=home&c=View&a=index&aid=29" title="产品中心标题九"><img src="/uploads/allimg/20240519/1-240519203645244.jpg" alt="产品中心标题九"></a></div>
+            </dd>
+                        <dd class="d2">
+              <div class="box1"><a href="/index.php?m=home&c=View&a=index&aid=28" title="产品中心标题八">
+                <h3>产品中心标题八</h3>
+                <p>产品以再生废纸、芦苇浆、甘蔗浆、植物桔杆、果壳等为原料,可完全回收再生利用。~再生废纸、植物桔杆等为原料 产品......</p>
+                <i class="icon"></i><span class="icon"></span></a></div>
+              <div class="box2"><a href="/index.php?m=home&c=View&a=index&aid=28" title="产品中心标题八"><img src="/uploads/allimg/20240519/1-240519203AYa.jpg" alt="产品中心标题八"></a></div>
+            </dd>
+                      </dl>
+        </div>
+        <div class="right" aos="fade-left" aos-easing="ease" aos-duration="700">
+          <div class="iproduct" id="product">
+            <div class="bd">
+              <ul class="list clearfix">
+                                <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=27" title="产品中心标题七">
+                  <div class="img"><img src="/uploads/allimg/20240519/1-2405192039295S.jpg" alt="产品中心标题七"/></div>
+                  <div class="txt">
+                    <h3 class="tit">产品中心标题七</h3>
+                  </div>
+                  </a></li>
+                                <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=26" title="产品中心标题六">
+                  <div class="img"><img src="/uploads/allimg/20240519/1-240519201TaO.jpg" alt="产品中心标题六"/></div>
+                  <div class="txt">
+                    <h3 class="tit">产品中心标题六</h3>
+                  </div>
+                  </a></li>
+                                <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=25" title="产品中心标题五">
+                  <div class="img"><img src="/uploads/allimg/20240519/1-240519203SG94.jpg" alt="产品中心标题五"/></div>
+                  <div class="txt">
+                    <h3 class="tit">产品中心标题五</h3>
+                  </div>
+                  </a></li>
+                              </ul>
+            </div>
+            <div class="hd">
+              <ul class="iconList">
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="enquiryM" aos="fade-up" aos-easing="ease" aos-duration="700">
+    <div class="enquiry w1200 clearfix">
+      <div class="left" aos="fade-right" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <div class="txt">
+          <h3 class="tit"><em>亚太腾龙公司，</em>由专业团队提供服务</h3>
+          <p class="subtit">腾龙公司在果敢老街，由于战争的影响，目前公司开在，亚太</p>
+          <p class="subtit">腾龙公司是一个值得，信赖，的合作伙伴</p>
+        </div>
+      </div>
+      <div class="right" aos="fade-left" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <div class="webTel">19188348899</div>
+        <a class="online" href="javascript:void(0);" title="在线咨询" id="xcxbtn">在线咨询</a> </div>
+    </div>
+  </div>
+  <div class="floor_3_main">
+    <div class="floor_3 w1200 clearfix">
+      <div class="indexTit" aos="fade-up" aos-easing="ease" aos-duration="700">
+        <h3 class="tit"><em>腾龙六大优势</em></h3>
+        <p class="subtit"></p>
+      </div>
+      <div class="advantList" aos="fade-up" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <ul class="list clearfix">
+          <li class="item ad1">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙技术创新</em>我们更专业</h3>
+              <p class="cont">采用欧美先进技术，集合行业优秀机型特点，<BR>
+                多平台应用领域</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys1.png"/></li>
+          <li class="item ad2">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙环保节能</em>我们更环保</h3>
+              <p class="cont">资源循环再生，一配套烘干系统使用清洁能源，<BR>
+                快速获得环评资质</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys2.png"/></li>
+          <li class="item ad3">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙经久耐用</em>我们更严格</h3>
+              <p class="cont">参照发达国家的标准和理念进行管理和生产，<BR>
+                严格把控采用欧美先进技术</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys3.png"/></li>
+          <li class="item ad4">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙经济性能</em>我们性价比高</h3>
+              <p class="cont">性价比高，百余家十年以上客户见证<BR>
+                全球300家客户的选择</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys4.png"/></li>
+          <li class="item ad5">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙专业指导</em>我们更放心</h3>
+              <p class="cont">交钥匙式工程，国内较早从事纸浆模塑<BR>
+                行业的精英团队</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys5.png"/></li>
+          <li class="item ad6">
+            <div class="txt">
+              <h3 class="tit"><em>腾龙适用范围</em>我们更全面</h3>
+              <p class="cont">提供任何类型纤维成型解决与生产方案，<BR>
+                定制化服务</p>
+            </div>
+            <img class="sIco" src="/template/pc/skin/images/ys6.png"/></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="enquiryM" aos="fade-up" aos-easing="ease" aos-duration="700">
+    <div class="enquiry w1200 clearfix">
+      <div class="left" aos="fade-right" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <div class="txt">
+          <h3 class="tit"><em>腾龙国家级高新技术企业，</em>深厚的技术底蕴</h3>
+          <p class="subtit">拥有一支熟知纸浆模塑技术及工艺的人才队伍</p>
+          <p class="subtit">掌握了国内外先进的纸浆模塑纤维成型设备、模具及产品生产技术</p>
+        </div>
+      </div>
+      <div class="right" aos="fade-left" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <div class="webTel">19188348899</div>
+        <a class="online" href="javascript:void(0);" title="在线咨询" id="xcxbtn1">在线咨询</a> </div>
+    </div>
+  </div>
+    <div class="floor_4_main">
+    <div class="floor_4 w1200 clearfix">
+      <div class="about">
+        <div class="aImg" aos="fade-right" aos-easing="ease" aos-duration="700"><img src="/template/pc/skin/images/about.jpg" alt="关于我们"/></div>
+        <div class="aCont" aos="fade-left" aos-easing="ease" aos-duration="700">
+          <div class="txt">
+            <h3 class="aTit">关于我们</h3>
+            <p class="aTxt"> <a href="/index.php?m=home&c=Lists&a=index&tid=1">关于我们</a> <span>腾龙天花板循环扇有限公司成立于中国品牌咨询和设计行业开始崛起的上世纪90年代，至今已发展成为中国颇具规模和影响力的综合性品牌战略咨询和设计公司。不同于管理咨询公司和单纯的设计公司，某某腾龙于为客户创造和管理品牌，提供从品牌资产研究、市场洞察、品牌机会分析、品牌战略、品牌组合规划、命名和语词创作、设计…</span> </p>
+            <a class="kMore" href="/index.php?m=home&c=Lists&a=index&tid=1">了解详情 >></a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="floor_2_main">
+    <div class="floor_2 w1200 clearfix">
+      <div class="indexTit" aos="fade-up" aos-easing="ease" aos-duration="700">
+        <h3 class="tit"><em>合作案例</em></h3>
+        <p class="subtit"></p>
+      </div>
+      <div class="caseList" id="icase" aos="fade-up" aos-easing="ease" aos-duration="700" aos-delay="100">
+        <div class="bd">
+          <ul class="list clearfix">
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=14" title="客户案例标题六">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q220290-L.jpg" alt="客户案例标题六"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题六</h3>
+              </div>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=13" title="客户案例标题五">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q220070-L.jpg" alt="客户案例标题五"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题五</h3>
+              </div>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=12" title="客户案例标题四">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q219470-L.jpg" alt="客户案例标题四"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题四</h3>
+              </div>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=11" title="客户案例标题三">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q219240-L.jpg" alt="客户案例标题三"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题三</h3>
+              </div>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=10" title="客户案例标题二">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q21Z30-L.jpg" alt="客户案例标题二"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题二</h3>
+              </div>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=9" title="客户案例标题一">
+              <div class="img"><img src="/uploads/allimg/190428/1-1Z42Q2152N51.jpg" alt="客户案例标题一"/></div>
+              <div class="txt">
+                <h3 class="tit">客户案例标题一</h3>
+              </div>
+              </a></li>
+                      </ul>
+        </div>
+        <div class="hd"><span class="icon prev"></span><span class="icon next"></span></div>
+      </div>
+      <a class="cMore" href="/index.php?m=home&c=Lists&a=index&tid=12" aos="fade-up" aos-easing="ease" aos-duration="700" aos-delay="300">查看更多</a></div>
+  </div>
+    <div class="floor_5_main">
+    <div class="floor_5 w1200 clearfix">
+      <div class="indexTit" aos="fade-up" aos-easing="ease" aos-duration="700">
+        <h3 class="tit"><em>新闻中心</em></h3>
+        <p class="subtit"></p>
+      </div>
+      <div class="cont clearfix">
+        <div id="newsBox" class="newsBox fl" aos="fade-right" aos-easing="ease" aos-duration="700">
+          <div class="bd">
+            <ul>
+                            <li><a href="/index.php?m=home&c=View&a=index&aid=108" title="腾龙天花板循环扇有限公司发布新一代智能循环扇，引领行业技术革新"><img class="img" src="/uploads/allimg/20250516/1-250516005210O2.jpg" alt="腾龙天花板循环扇有限公司发布新一代智能循环扇，引领行业技术革新"/>
+                <div class="txt">
+                  <h3>腾龙天花板循环扇有限公司发布新一代智能循环扇，引领行业技术革新</h3>
+                  <p>【2025年5月16日，中国·广州】——近日，腾龙天花板循环扇有限公司（以下简称“腾龙公司”）正式发布了其最新研发的“智...</p>
+                </div>
+                </a></li>
+                            <li><a href="/index.php?m=home&c=View&a=index&aid=37" title="关于404错误页面的seo问题"><img class="img" src="/uploads/allimg/20220308/1-22030QH631N9.jpg" alt="关于404错误页面的seo问题"/>
+                <div class="txt">
+                  <h3>关于404错误页面的seo问题</h3>
+                  <p>网站是否需要有404页面，是否需要做404 这些基础的404错误话题 是每个seo从业人员都要考虑的~！ 你可能会问： ...</p>
+                </div>
+                </a></li>
+                            <li><a href="/index.php?m=home&c=View&a=index&aid=36" title="站在用户的角度思考什么是运营"><img class="img" src="/uploads/allimg/191029/1-191029153F20-L.jpg" alt="站在用户的角度思考什么是运营"/>
+                <div class="txt">
+                  <h3>站在用户的角度思考什么是运营</h3>
+                  <p>每个人的对于运营的理解会不一样，运营这个群体中有很大一部分人是误打误撞进入这个圈的，不同的项目、业务、负责不同的模块，3...</p>
+                </div>
+                </a></li>
+                            <li><a href="/index.php?m=home&c=View&a=index&aid=35" title="如何让访客接受你的网站呢"><img class="img" src="/uploads/allimg/191029/1-1910291536410-L.jpg" alt="如何让访客接受你的网站呢"/>
+                <div class="txt">
+                  <h3>如何让访客接受你的网站呢</h3>
+                  <p>也许你已经给网站优化了一段时间，但是放心好像网站一点效果都没有，也许你会很气馁，失去信心，那么我们应该这么样去做找到问题...</p>
+                </div>
+                </a></li>
+                          </ul>
+          </div>
+          <div class="hd">
+            <ul>
+            </ul>
+          </div>
+        </div>
+        <div class="textlist fr" aos="fade-left" aos-easing="ease" aos-duration="700">
+          <ul class="list">
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=34" title="怎么样检查和优化网站的速度">
+              <div class="time fl"><b>29</b>2019-10</div>
+              <h3>怎么样检查和优化网站的速度</h3>
+              <p>网站的打开速度是一个比较重要的因素，对于任何一个网站来说打开的速度跟用户的跳出率，以及网站的优化工作都是有直接的关系，在优化过程中你也可以看到一半打开速度慢的网站...</p>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=33" title="如何检查和优化网站的速度">
+              <div class="time fl"><b>29</b>2019-10</div>
+              <h3>如何检查和优化网站的速度</h3>
+              <p>网站的打开速度是一个比较重要的因素，对于任何一个网站来说打开的速度跟用户的跳出率，以及网站的优化工作都是有直接的关系，在优化过程中你也可以看到一半打开速度慢的网站...</p>
+              </a></li>
+                        <li class="item"><a href="/index.php?m=home&c=View&a=index&aid=32" title="排名不提升 要怎么去优化">
+              <div class="time fl"><b>29</b>2019-10</div>
+              <h3>排名不提升 要怎么去优化</h3>
+              <p>相信大家在接手网站优化的时候，经常会出现目标关键词排名不能够提升的情况，但是又不能确定是哪里出了问题。下面，小编就给大家介绍常见的优化分析方法，供大家参考学习！...</p>
+              </a></li>
+                      </ul>
+        </div>
+      </div>
+      <a href="/index.php?m=home&c=Lists&a=index&tid=9" class="more" aos="fade-up" aos-easing="ease" aos-duration="700">更多资讯 >></a> </div>
+  </div>
+   </div>
+<div class="bottom_main">
+  <div class="footer w1200 clearfix">
+    <div class="bott_nav"> <span>友情链接：</span> <a href="http://www.taobao.com/" target="_blank">淘宝</a>  <a href="http://www.baidu.com/" target="_blank">百度</a>  <a href="https://www.jd.com/" target="_blank">微博</a>  <a href="https://www.jd.com/" target="_blank">京东</a> </div>
+    <div class="left"> <a class="bLogo" href="http://njadbzs.com"><img src="/uploads/allimg/20240519/1-240519201402448.png"></a>
+      <div class="bNav"> <a href="http://njadbzs.com">网站首页</a>  <a href="/index.php?m=home&c=Lists&a=index&tid=1" title="关于我们">关于我们</a> <a href="/index.php?m=home&c=Lists&a=index&tid=5" title="产品中心">产品中心</a> <a href="/index.php?m=home&c=Lists&a=index&tid=9" title="新闻中心">新闻中心</a> <a href="/index.php?m=home&c=Lists&a=index&tid=12" title="合作案例">合作案例</a> <a href="/index.php?m=home&c=Lists&a=index&tid=15" title="售后承诺">售后承诺</a> <a href="/index.php?m=home&c=Lists&a=index&tid=13" title="在线留言">在线留言</a> <a href="/index.php?m=home&c=Lists&a=index&tid=14" title="联系我们">联系我们</a> </div>
+    </div>
+    <div class="right">
+      <div class="ewm"><img src="/uploads/allimg/20250516/1-25051600500R13.png"/></div>
+      <div class="bInfo">
+        <div class="telM">
+          <p class="tx">联系电话</p>
+          <p class="webTel">19188348899</p>
+        </div>
+        <div class="contact">
+          <p class="tx">联系地址</p>
+          <p class="address">果敢老街腾龙公司，现在腾龙公司在亚太</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="bottom_copy">
+  <div class="btCopy w1200">
+    <p class="copy1"><span>Copyright © 2002-2024 腾龙有限公司 版权所有 非商用版本</span><span>备案号：<a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">ICP备********号</a></span><span><a href="http://njadbzs.com/sitemap.xml">网站地图</a></span></p>
+  </div>
+</div>
+<div class="ewmbox">
+  <div class="close"></div>
+  <img src="/uploads/allimg/20250516/1-25051600500R13.png"/>扫一扫咨询微信客服</div>
+<dl class="toolbar" id="toolbar">
+  <dd><a class="slide tel slide-tel" href="javascritp:void(0);"><i><span></span></i>19188348899</a></dd>
+  <dd><a href="http://wpa.qq.com/msgrd?v=3&uin=2262579137&site=qq&menu=yes"><i class="qq"><span></span></i></a></dd>
+  <dd><i class="code"><span></span></i>
+    <ul class="pop pop-code">
+      <li><img src="/uploads/allimg/20250516/1-25051600500R13.png"/>
+        <h3><b>微信号：19188348899</b>微信二维码</h3>
+      </li>
+    </ul>
+  </dd>
+  <dd> <a href="javascript:;"><i id="top" class="top"><span></span></i></a></dd>
+</dl>
+<script language="javascript" type="text/javascript" src="/template/pc/skin/js/aos.js"></script>
+<script language="javascript" type="text/javascript" src="/template/pc/skin/js/app.js"></script>
+ 
+<script type="text/javascript">
+    AOS.init({
+        easing: 'ease-out-back',
+        duration: 1000
+    });
+</script> 
+<!-- 应用插件标签 start --> 
+  
+<!-- 应用插件标签 end -->
+</body>
+</html>
